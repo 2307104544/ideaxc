@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Testlinxu/Testlinxu.iml" filepath="$PROJECT_DIR$/Testlinxu/Testlinxu.iml" />
       <module fileurl="file://$PROJECT_DIR$/ideaxc.iml" filepath="$PROJECT_DIR$/ideaxc.iml" />
     </modules>
   </component>
