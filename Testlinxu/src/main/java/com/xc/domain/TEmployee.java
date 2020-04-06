@@ -12,7 +12,6 @@ import java.util.Date;
  */
 @Table(name = "t_employee")
 public class TEmployee {
-    //adds
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer employee_id;
